@@ -1,0 +1,24 @@
+body{
+    background : silver;
+}
+
+h1{
+    color: black;
+    font-size: 90;
+}
+div{
+    background:white;
+    width: 50%;
+}
+
+
+center{
+    background-color: rgba(224, 203,13, 0.733);
+    width:30%;
+    height: 500px;
+    margin-top: 5%;
+    margin-left: 35%;
+    box-shadow: gray;
+    border-radius: 2px;
+    border: 1px solid black;
+}
